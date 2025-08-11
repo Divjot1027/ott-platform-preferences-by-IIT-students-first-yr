@@ -59,9 +59,3 @@ Analyzes OTT platform preferences of 1st-year IIT Dhanbad students nationwide. S
 - Code / README: `MIT License`
 
 ---
-
-If you want, I can:
-- generate the actual `README.md` file for you (ready to upload), or
-- create a sanitized `survey-data-sample.csv` for the repo, or
-- draft `TRANSFORMS.md` listing the exact Google Sheets formulas used.
-Which one should I do next?
