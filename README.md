@@ -40,8 +40,7 @@ Analyzes OTT platform preferences of 1st-year IIT Dhanbad students nationwide. S
 ---
 
 ## Privacy
-- Remove or anonymize `Your Name` and any personally identifiable information before publishing data publicly. Prefer sharing only `RespondentID` and aggregated outputs.
-
+- Anonymize `Your Name` and any personally identifiable information before publishing data publicly.
 ---
 
 ## How to reproduce
@@ -51,13 +50,3 @@ Analyzes OTT platform preferences of 1st-year IIT Dhanbad students nationwide. S
 
 ---
 
-## Suggested commit message
-`Add initial assets: README, Tableau workbook, processed data sample`
-
----
-
-## License (suggestion)
-- Data: `CC BY-NC 4.0` (attribution, non-commercial)  
-- Code / README: `MIT License`
-
----
